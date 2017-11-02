@@ -1,28 +1,34 @@
-# This is a large heading
+# Datamarty
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in a small green bubble deep in a dark swamp
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Reading is a town to the north west of the swamp
+They famously have a Reading Police Reading Library
 
-Here is `some code` in the middle of a sentence.
+- *He fell down the stairs guv* by Oops he trippeds
+- *Jailhouse rock* a seaside tail of sugar based confectionary
+- **Walking the beat** a new dance style
 
+### Food
+
+I like to eat out
+
+1. McDonalds
+2. Burger King
+3. Subway
+
+### Contact
+
+Contact 'me'
 ```
-This is
-a block
-of code
+At this number 12345
+Address bubbly swampy thing
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://southcoastcoders.net/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://en.wikipedia.org/wiki/File:Norton_Motorcycle.jpg)
