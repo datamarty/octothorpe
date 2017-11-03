@@ -1,4 +1,0 @@
-This is some text I have added to file1
-What about me?
-A third line here on line 3
-A fourth line is on line 4
